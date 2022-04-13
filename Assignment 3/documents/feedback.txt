@@ -1,0 +1,36 @@
+Thank you for your timely submission. The grade for your submission is a 2.5.
+
+The non-functional (report quality) part of the grade is: 2.1
+The functional part (calculations and results) is: 2.7
+
+Please note that this is not your final course grade for this assignment. Instead, you have the opportunity to use the feedback I provide below to update your assignment and submit it for the final deadline in April. I will then grade it again (together with the other assignments you submit then) to build your formal grade. Of course, you are not required to update your assignment. I will then just use the current grade.
+
+Should you decide to resubmit, please indicate clearly at the beginning of the document what are the proposed changes to the assignment.
+
+Feedback about functional tasks:
+
+a., b., c. Missing
+
+Feedback about report quality:
+
+* The notebook is unpolished and unfinished, and clearly insufficient.
+You should:
+    - Use the standard header for the template
+    - Remove the class notes
+    - Introduce a structure involving introduction, problem description, dataset description, conslusions, discussion of the limitations of the datasets
+
+* Several cells containing drafts or ideas (for instance showing partial results) and several consecutive cells with no indication of what should be run to obtain the final results.  Keep in mind for the final submission that your work needs to be clear and reproducible, so remove everything that the final user should not be seeing and add supplementary information when needed.
+
+* You basically don't have a problem description (the problem description is copied from the assignment) and jump directly to the dataset description. You should first introduce the problem, the available datan and explain as explicitly as possible WHAT IS EXACTLY the problem that that you are trying to solve and how the dataset can be used to get to the solution.
+
+* In the introduction of the report: lacking description of what scraping is and how is it useful for the task at hand.
+
+* Dataset description is missing from your notebook.
+
+* The text contains several typos, please proofread the text and remove the typos prior to the final submission.
+
+* The code quality should be improved, namely in terms of naming conventions and comments.:
+    - Naming conventions: The variable naming lacks consistency (sometimes uses underscores, sometimes it doesn't), please choose one style and maintain consistency in your document. Also, avoid one letter names for variable (such as b,c,d).
+    - Comments: Your code contains a lot of magic numbers (numbers/indexes using without further clarifications) and few comments. You should add comments in all the non-trivial part of the codes and explain from where the "magic numbers" come from.
+
+* You do not identify some possible limitations from the data that influence your analysis.
