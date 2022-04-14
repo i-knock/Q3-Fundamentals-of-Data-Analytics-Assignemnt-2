@@ -20,9 +20,9 @@ Should you want to start improving your assignment before Monday, here you can f
     - Either exporting the visualization as an image file (png, jpg, PDF, see Assignment 1 - Lab 1) and including it in the submission
     - Or consider splitting the visualization into multiple plots to highlight the different aspects.
 - Average number of holidays: In order to obtain a meaningful result for the average number of holidays, you should pay attention to two elements:
-- Week-ends: You can safely exclude week-ends from the analysis, as you can assume that people mostly work during the Monday to Friday working week
-- Outliers: You should carefully analyze the distribution of holiday days across the different employees as outliers (i.e. people having a considerably high/considerably low number of holiday days) can easily skew the average.
-Kind regards,
+    - Week-ends: You can safely exclude week-ends from the analysis, as you can assume that people mostly work during the Monday to Friday working week
+    - Outliers: You should carefully analyze the distribution of holiday days across the different employees as outliers (i.e. people having a considerably high/considerably low number of holiday days) can easily skew the average.
+    Kind regards,
 
 --
 
