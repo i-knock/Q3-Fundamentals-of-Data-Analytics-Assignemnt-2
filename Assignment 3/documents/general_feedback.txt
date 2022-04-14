@@ -11,14 +11,14 @@ Should you want to start improving your assignment before Monday, here you can f
 - How the data can be used to solve the problem at hand?
 - What techniques/tools are you going to use to address the problem?
 - Final submission: Once you submit a notebook, the notebook should be:
-- Completely executed (all the plots should be visible)
-- Cleaned up (all the cells containing errors, or used for preliminary analysis but not needed for the final version should be removed)
+    - Completely executed (all the plots should be visible)
+    - Cleaned up (all the cells containing errors, or used for preliminary analysis but not needed for the final version should be removed)
 - Code quality: In order to improve the quality of the code in your notebooks you should pay attention to:
-- Meaningful naming for the variables (avoid generic names such as df_1, a, b, c, s, s0, ss).
-- Consistency in naming style (if you use CamelCase, or underscore_separated_names, keep a consistent style, avoid mixing the two in examples like Df_HolidayAll
-- Visualizations: Some of the group included nice visualizations of the working patterns of the different employees. However, due to the large number of employees and the long period, the visualization is barely readable. In such case you should consider:
-- Either exporting the visualization as an image file (png, jpg, PDF, see Assignment 1 - Lab 1) and including it in the submission
-- Or consider splitting the visualization into multiple plots to highlight the different aspects.
+    - Meaningful naming for the variables (avoid generic names such as df_1, a, b, c, s, s0, ss).
+    - Consistency in naming style (if you use CamelCase, or underscore_separated_names, keep a consistent style, avoid mixing the two in examples like Df_HolidayAll
+    - Visualizations: Some of the group included nice visualizations of the working patterns of the different employees. However, due to the large number of employees and the long period, the visualization is barely readable. In such case you should consider:
+    - Either exporting the visualization as an image file (png, jpg, PDF, see Assignment 1 - Lab 1) and including it in the submission
+    - Or consider splitting the visualization into multiple plots to highlight the different aspects.
 - Average number of holidays: In order to obtain a meaningful result for the average number of holidays, you should pay attention to two elements:
 - Week-ends: You can safely exclude week-ends from the analysis, as you can assume that people mostly work during the Monday to Friday working week
 - Outliers: You should carefully analyze the distribution of holiday days across the different employees as outliers (i.e. people having a considerably high/considerably low number of holiday days) can easily skew the average.
